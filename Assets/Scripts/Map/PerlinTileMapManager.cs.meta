@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e3d14c1f3ff2104096ffe7bb765fb99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Abyss: {fileID: 11400000, guid: 43ceedacf3b393e4a9f32969dd1ac403, type: 2}
+  - Platform: {fileID: 11400000, guid: 1de6aeeea67bd7d4ab32d49cdcdf4f3a, type: 2}
+  - tiles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
